@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;uscs.Hash&apos; to &apos;Node&apos;&#x0D;&#x0A;- Original project: &apos;tabelaHash&apos;&#x0D;&#x0A;- Original element: &apos;uscs.Hash&apos;&#x0D;&#x0A;- Renamed element: &apos;uscs.Node&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Hash&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;uscs{Hash.java[Hash" matchStrategy="1" name="Node" qualified="false" references="true" similarDeclarations="false" stamp="1634598836886" textual="false" version="1.0"/>
+</session>
